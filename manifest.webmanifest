@@ -1,0 +1,23 @@
+{
+  "name": "La Nutri",
+  "short_name": "La Nutri",
+  "description": "Tu espacio de bienestar",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff9fb",
+  "theme_color": "#f6d8e5",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
